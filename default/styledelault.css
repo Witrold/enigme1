@@ -1,0 +1,25 @@
+
+
+nav.menu-nav ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+    margin-top: 400px;
+}
+nav.menu-nav ul li.btn a{
+	color: black;
+    border: 1px black solid;
+	background-color: white;
+	text-decoration: none;
+	padding: 2px;
+	font-size: 50px;
+    border-radius:28px;
+    
+}
+
+nav.menu-nav ul li.btn:hover a{
+	border: none;
+    color: white;
+	background-color: red;
+	transition: 0.3s all;
+}
+
