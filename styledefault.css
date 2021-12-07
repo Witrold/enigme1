@@ -32,21 +32,3 @@ h1.titre {
     font-style: italic;
 	text-decoration: underline;
 }
-
-body {
-	color:black;
-	background-color:white;
-	background-image:url(image/back.jpg);
-	background-repeat:no-repeat;
-	background-attachment:fixed;
-	background-size: cover;
-	}
-
-body {
-	color:black;
-	background-color:white;
-	background-image:url(image/);
-	background-repeat:no-repeat;
-	background-attachment:fixed;
-	background-size: cover;
-	}
