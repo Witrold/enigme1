@@ -9,3 +9,15 @@ p.mdp {
     margin-top: 300px;
     margin-left: 800px;
 }
+
+h1.cherche {
+	font-size: 70px;
+	color: black;
+	text-align: center;
+	margin-top: 300px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-weight: 100;
+    font-style: italic;
+	text-decoration: underline;
+  margin-top: -20px;
+}
