@@ -1,0 +1,42 @@
+h1.maintenance{
+	font-size: 70px;
+	color: black;
+	text-align: center;
+	margin-top: 400px;
+	font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	font-weight: 100;
+    font-style: italic;
+	text-decoration: underline;
+}
+
+body {
+	background-image  : url(images/image.jpg);
+	background-size : cover;
+	background-repeat : no-repeat;
+	/* 200px = plus grande taille entre width et height | ou une très très grande taille */
+	/* 0.4 = 1 - opacité de l'image désirée | 1 - 0.6 */
+  };
+
+  nav.menu-nav1 ul li.btn1{
+	list-style-type: none;
+	display: inline-block;
+    margin-top: 100px;
+	margin-left: -30px;
+}
+nav.menu-nav1 ul li.btn1 a{
+	color: black;
+    border: 1px black solid;
+	background-color: white;
+	text-decoration: none;
+	padding: 2px;
+	font-size: 50px;
+    border-radius:28px;
+    
+}
+
+nav.menu-nav1 ul li.btn1:hover a{
+	border: none;
+    color: white;
+	background-color: black;
+	transition: 0.3s all;
+}

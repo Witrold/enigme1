@@ -20,7 +20,7 @@ nav.menu-nav ul li.btn a{
 nav.menu-nav ul li.btn:hover a{
 	border: none;
     color: white;
-	background-color: red;
+	background-color: black;
 	transition: 0.3s all;
 }
 
@@ -48,7 +48,7 @@ h1.titre {
 
 
 body {
-	background-image  : url(image.jpg);
+	background-image  : url(images/image.jpg);
 	background-size : cover;
 	background-repeat : no-repeat;
 	/* 200px = plus grande taille entre width et height | ou une très très grande taille */
