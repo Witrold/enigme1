@@ -1,0 +1,17 @@
+"repositories": [
+    {
+        "type":"package",
+        "package": {
+          "name": "Witrold/-nigme",
+          "version":"main",
+          "source": {
+              "url": "https://github.com/Witrold/-nigme.git",
+              "type": "git",
+              "reference":"main"
+            }
+        }
+    }
+],
+"require": {
+    "Witrold/-nigme": "main"
+}
