@@ -1,0 +1,16 @@
+{
+    // ...
+    "autoload": {
+        "psr-4": {
+            "MyVendorName\\MyProject": "src/"
+        },
+        "files": [
+            "src/functions.php"
+        ]
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "MyVendorName\\MyProject\\Tests": "tests/"
+        }
+    }
+}
