@@ -1,16 +1,12 @@
 {
-    // ...
-    "autoload": {
-        "psr-4": {
-            "MyVendorName\\MyProject": "src/"
-        },
-        "files": [
-            "src/functions.php"
-        ]
+    "name": "moi/app",
+    "require": {
+        "php": ">=5.3",
     },
-    "autoload-dev": {
-        "psr-4": {
-            "MyVendorName\\MyProject\\Tests": "tests/"
+    "authors": [
+        {
+            "name": "",
+            "email": ""
         }
-    }
+    ],
 }
